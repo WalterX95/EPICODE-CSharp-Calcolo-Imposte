@@ -10,13 +10,13 @@ namespace CalcoloImposte.Models
 {
     internal class Contribuente
     {
-        private string Nome {  get; set; } = String.Empty;
-        private string Cognome { get; set;} = String.Empty;
+        private string Nome { get; set; }
+        private string Cognome { get; set; }
         private DateTime DataNascita { get; set; }
-        private string Sesso {  get; set; } = String.Empty;
-        private string ComuneResidenza {  get; set; } = String.Empty;
+        private string Sesso { get; set; }
+        private string ComuneResidenza { get; set; }
 
-        private string Provincia {  get; set; } = String.Empty;
+        private string Provincia { get; set; }
         private decimal RedditoAnnuale { get; set; } 
 
         private decimal RedditoImposte { get; set; }
@@ -41,6 +41,7 @@ namespace CalcoloImposte.Models
             var cf = new CodiceFiscale(Cognome, Nome, Sesso, DataNascita, ComuneResidenza, Provincia, LivelloOmocodia);
             return cf.CodiceNormalizzato;
         }
+    
          public decimal CalcoloImposte() {
             switch(RedditoAnnuale)
             {
@@ -61,11 +62,11 @@ namespace CalcoloImposte.Models
                     break;
             }
             Console.WriteLine("==================================================");
-            Console.WriteLine("Contribuente :"+Nome);
-            Console.WriteLine("Nato il "+DataNascita.Date+" ("+Sesso+")");
-            Console.WriteLine("Codice Fiscale :"+ComponiCodiceFiscale());
-            Console.WriteLine("Reddito Dichiarato :" + RedditoAnnuale.ToString("C", new System.Globalization.CultureInfo("it-IT")));
-            Console.WriteLine("Imposta da Versare :" + RedditoImposte.ToString("C", new System.Globalization.CultureInfo("it-IT")));
+            Console.WriteLine("Contribuente: "+Nome+" "+Cognome);
+            Console.WriteLine("Nato il: "+DataNascita.Date+" ("+Sesso+")");
+            Console.WriteLine("Codice Fiscale: "+ComponiCodiceFiscale());
+            Console.WriteLine("Reddito Dichiarato: " + RedditoAnnuale.ToString("C", new System.Globalization.CultureInfo("it-IT")));
+            Console.WriteLine("Imposta da Versare: " + RedditoImposte.ToString("C", new System.Globalization.CultureInfo("it-IT")));
 
             return RedditoAnnuale;
         }
