@@ -1,0 +1,14 @@
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\bin\Debug\net8.0\CalcoloImposte.exe
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\bin\Debug\net8.0\CalcoloImposte.deps.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\bin\Debug\net8.0\CalcoloImposte.runtimeconfig.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\bin\Debug\net8.0\CalcoloImposte.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\bin\Debug\net8.0\CalcoloImposte.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.AssemblyInfoInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.AssemblyInfo.cs
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.csproj.CoreCompileInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\refint\CalcoloImposte.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\CalcoloImposte.genruntimeconfig.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\BuildWeek1\CalcoloImposte\CalcoloImposte\obj\Debug\net8.0\ref\CalcoloImposte.dll
